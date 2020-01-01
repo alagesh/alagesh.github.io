@@ -3,8 +3,8 @@
   name: Certifications
   quote: >
   description: | # this will include new lines to allow paragraphs
-    OCWSD - Oracle Certified Expert Web Services Developer. |
-    SCWCD - Sun Certified Web Component Developer. |
-    OCA - Oracle PL/SQL Developer Certified Associate. |
-    SCJP - Sun Certified Programmer for the Java Platform. |
+    OCWSD - Oracle Certified Expert Web Services Developer. <BR/>
+    SCWCD - Sun Certified Web Component Developer. <BR/>
+    OCA - Oracle PL/SQL Developer Certified Associate. <BR/>
+    SCJP - Sun Certified Programmer for the Java Platform. <BR/>
     
