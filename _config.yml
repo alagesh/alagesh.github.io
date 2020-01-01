@@ -31,14 +31,11 @@ linkedin_username: azhakesan
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
- <p>
- *Curious learner & Problem solver*
- <br/>
- Skills: <br/>
- <mark> Microservices Architecture</mark>, <mark> AWS </mark>, <mark> Behavior-Driven Development (BDD)</mark>, <mark> CI/CD </mark>
- 
-
-</p>
+ <p> |
+ *Curious learner & Problem solver* |
+ Skills: |
+ <mark> Microservices Architecture</mark>, <mark> AWS </mark>, <mark> Behavior-Driven Development (BDD)</mark>, <mark> CI/CD </mark> |
+ </p> |
 # Projects Section
 projects_title: Licenses & Certifications #(Use this to override about projects section title)
 
