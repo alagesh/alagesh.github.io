@@ -33,7 +33,8 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
  *Curious learner & Problem solver* <br/><br/>
  Skills: <br/>
- <mark> Microservices Architecture</mark> <mark> AWS </mark> <mark> Behavior-Driven Development (BDD)</mark> <mark> CI/CD </mark> 
+ <mark> Microservices Architecture</mark> <mark> AWS </mark> <br/>
+ <mark> Behavior-Driven Development (BDD)</mark> <mark> CI/CD </mark> 
 # Projects Section
 projects_title: Licenses & Certifications #(Use this to override about projects section title)
 
