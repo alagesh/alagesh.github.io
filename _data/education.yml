@@ -6,13 +6,13 @@
   quote: >    
   description: | # this will include new lines to allow paragraphs
    Graduate Courework at USC: <br/>
-   <mark>CSCI - 571</mark> Web Technologies <br/>
-   <mark>CSCI - 585</mark> Database Systems <br/>
-   <mark>CSCI - 402</mark> Operating Systems <br/>
-   <mark>CSCI - 570</mark> Analysis of Algorithms <br/>
-   <mark>CSCI - 499</mark> Distributed Applications <br/>
-   <mark>EE - 450</mark> Introduction to Computer Networks  <br/>
-   <mark>EE - 555</mark> Broadband Networks Architecture <br/>
+   <mark>CSCI-571</mark> Web Technologies <br/>
+   <mark>CSCI-585</mark> Database Systems <br/>
+   <mark>CSCI-402</mark> Operating Systems <br/>
+   <mark>CSCI-570</mark> Analysis of Algorithms <br/>
+   <mark>CSCI-499</mark> Distributed Applications <br/>
+   <mark>EE-450</mark> Introduction to Computer Networks  <br/>
+   <mark>EE-555</mark> Broadband Networks Architecture <br/>
 
 
 
