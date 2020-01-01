@@ -3,7 +3,20 @@
   name: University of Southern California
   #dates: Date Range (eg. 2016 - 2019)
   qualification: MS Computer Science
-  quote: >
-    
+  quote: >    
   description: | # this will include new lines to allow paragraphs
+   <p> 
+   Graduate Courework at USC:
+   <li>
+    <ol> CSCI - 571 - Web Technologies </ol> 
+    <ol>  CSCI - 585 - Database Systems </ol>
+    <ol>  CSCI - 402 - Operating Systems </ol>
+    <ol>  CSCI - 570 - Analysis of Algorithms </ol>
+    <ol>  CSCI - 499 - Advanced Topics : Distributed Applications </ol>
+    <ol>  EE - 450 - Introduction to Computer Networks </ol>
+    <ol>  EE - 555 - Broadband Networks Architecture </ol>
+  </li>
+   </p>
+
+
     
