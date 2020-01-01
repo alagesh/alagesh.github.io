@@ -33,11 +33,11 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
  *Curious learner & Problem solver* <br/><br/>
  Skills: <br/>
- <mark> Microservices Architecture :</mark> REST API | Scala | Play Framework | Java | Spring Boot <br/>
- <mark> AWS :</mark>  Elastic Beanstalk | ECS | Lambda Functions | SQS | SNS | S3 | DynamoDB | Redis | RDS | Route 53 <br/>
- <mark> Behavior-Driven Development (BDD) :</mark> jUnit | REST Assured | Mockito <br/>
- <mark> CI/CD :</mark> Jenkins | Groovy | SonarQube | Quality Gates | JaCoCo <br/>
- <mark> Database :</mark> Cassandra | Elasticsearch | PostgreSQL | MongoDb | Oracle | MySQL
+ <mark> Microservices Architecture:</mark> REST API | Scala | Play Framework | Java | Spring Boot <br/>
+ <mark> AWS:</mark>  Elastic Beanstalk | ECS | Lambda Functions | SQS | SNS | S3 | DynamoDB | Redis | RDS | Route 53 <br/>
+ <mark> Behavior-Driven Development (BDD):</mark> jUnit | REST Assured | Mockito <br/>
+ <mark> CI/CD:</mark> Jenkins | Groovy | SonarQube | Quality Gates | JaCoCo <br/>
+ <mark> Database:</mark> Cassandra | Elasticsearch | PostgreSQL | MongoDb | Oracle | MySQL
 
 # Projects Section
 projects_title: Licenses & Certifications #(Use this to override about projects section title)
