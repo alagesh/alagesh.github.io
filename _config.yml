@@ -6,7 +6,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 name: Azhakesan Thangamuthu
 title: Senior Software Engineer
 
-darkmode: true
+darkmode: false
 
 # Social links
 github_username:  alagesh
@@ -40,7 +40,7 @@ about_content: | # this will include new lines to allow paragraphs
 # experience_title: Experience #(Use this to override about experience section title)
 
 # Education Section
-# education_title: Education #(Use this to override about education section title)
+education_title: University of Southern California
 
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
@@ -50,7 +50,7 @@ more_content: | # this will include new lines to allow paragraphs
   Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
